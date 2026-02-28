@@ -66,7 +66,7 @@ This project answers the core question:
 
 **Tools Used**
 
-Tableau Public – Data visualization & dashboard development
+Looker Studio – Data visualization & dashboard development
 
 Excel / Power Query – Data cleaning and preparation
 
