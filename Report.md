@@ -88,6 +88,8 @@ SQL – Data exploration and aggregation
 
  Created calculated fields:
 
+ ![](images/Hotel_Bookings_Calculated_Fields.png)
+
 - Total Revenue = ADR × Total Nights
 
 - Booking Month
@@ -107,8 +109,6 @@ SQL – Data exploration and aggregation
 - Separated fact table (Bookings) from dimension attributes
 
 - Created calculated measures:
-
-![](images/Hotel_Bookings_Calculated_Fields.png)
 
 - Total Bookings = COUNT(Booking ID)
 
