@@ -74,7 +74,7 @@ SQL – Data exploration and aggregation
 
 **Data Cleaning & Preparation**
 
-![]()
+![](images/Hotel_Booking_Cleaning .png)
 
 - Removed duplicate booking records
 
@@ -103,6 +103,8 @@ SQL – Data exploration and aggregation
 - Separated fact table (Bookings) from dimension attributes
 
 - Created calculated measures:
+
+![](images/Hotel_Bookings_Calculated_Fields.png)
 
 - Total Bookings = COUNT(Booking ID)
 
@@ -170,9 +172,11 @@ SQL – Data exploration and aggregation
 
 **Dashboard / Visualization**
 
-The Tableau project contains two main dashboards:
+The project contains two main dashboards:
 
 **1️. Customer Booking Behavior & Operational Trends**
+
+![](images/Booking_Behavior_Overview.jpg)
 
 - Total bookings KPI
 
@@ -191,6 +195,8 @@ The Tableau project contains two main dashboards:
 - Geographic booking distribution
 
 **2️. Revenue & Market Segment Performance**
+
+![](images/Revenue_Insight_&_Segment_ Analysis.jpg)
 
 - Revenue by customer type
 
